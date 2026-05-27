@@ -1,7 +1,8 @@
 # Anh Khoa Augustin LU
-Assistant professor at The University of Tokyo
+Senior Researcher at the National Institute for Materials Science (NIMS)
 
-www.augustin.lu
+
+https://www.augustin.lu
 
 
 ## 🌱 Stats
