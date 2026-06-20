@@ -2,9 +2,9 @@
 Senior Researcher at the National Institute for Materials Science (NIMS)
 
 
-https://www.augustin.lu
-https://www.nims.go.jp/group/fps/cmsu_fps_member.html
-https://www.nims.go.jp/mana/jp/index.html
+(Personal website)         https://www.augustin.lu <br>
+(Quantum Simulation Group) https://www.nims.go.jp/group/fps/cmsu_fps_member.html <br>
+(NIMS WPI-MANA)            https://www.nims.go.jp/mana/jp/index.html <br>
 
 
 ## 🌱 Stats
