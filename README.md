@@ -4,7 +4,7 @@ Senior Researcher at the National Institute for Materials Science (NIMS)
 Methods:
 
 - Large-scale density functional theory ([CONQUEST](https://github.com/OrderN/CONQUEST-release))
-- Charge-aware graph neural networks ([SevenNet-Polar](https://github.com/AugustinLu/SevenNet-Polar))
+- Polarization-aware graph neural networks ([SevenNet-Polar](https://github.com/AugustinLu/SevenNet-Polar))
 - Structure analysis ([TS-LPP](https://pubs.rsc.org/cp/article/26/15/11657/803555/Extraction-of-local-structure-differences-in))
 
 Materials:
